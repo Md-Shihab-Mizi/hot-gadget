@@ -1,0 +1,23 @@
+.buy-button{
+    border-radius: 10px;
+    background-color: black;
+
+}
+.container{
+    margin-bottom: 100px;
+}
+p{
+    color: gray;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.cat{
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-color: orange;
+    margin: auto;
+    margin-bottom: 100px;
+}
